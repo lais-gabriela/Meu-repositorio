@@ -1,2 +1,2 @@
-# Meu repositorio
-primeiro repositorio do curso de git e github 
+# Meu repositório
+Primeiro repositório do curso de git e github pelo Gustavo Guanabara 
